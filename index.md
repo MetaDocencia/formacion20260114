@@ -10,15 +10,18 @@ El curso “Formación para enseñar” está diseñado para personas que enseñ
 En este curso, adquirirás conocimientos, habilidades y herramientas prácticas, con eficacia comprobada, para planificar, impartir y mejorar tus clases. El objetivo no es convertirte en especialista en educación, sino que puedas aplicar principios prácticos fundamentales de la enseñanza basada en evidencia en tus talleres y cursos.
 
 **Fechas:**
+
 - 14 de enero, 2026 - 9.00 a 17.00hs
+
 - 15 de enero, 2026 - 9.00 a 12.45hs
+
 - 16 de enero, 2026 - 9.00 a 12.45hs
 
 
 **Lugar:** Observatorio de Arecibo, Puerto Rico. 
 
 
-**Link para registrarte:** https://forms.zohopublic.com/coldspringharborlaboratory/form/Metadocencia/formperma/h5QgJLhCyX4hzou5KEC-4OfxIB7xKqmtaW0BcnUGJls
+**Link para registrarte:** [https://zfrmz.com/cgR6u7RPmTu5rCHJ9tbu](https://zfrmz.com/cgR6u7RPmTu5rCHJ9tbu)
 
 
 
@@ -43,8 +46,6 @@ Al concluir esta formación, podrás:
 
 ### ¿Para quién?
 
-No se requieren conocimientos técnicos avanzados. Sin embargo, esperamos que tengas alguna familiaridad básica con un lenguaje de programación (por ejemplo, R o Python).
-
 
 Cuando diseñamos este taller, teníamos a Andrea, Florencia y Diego en mente: 
 
@@ -54,9 +55,11 @@ Cuando diseñamos este taller, teníamos a Andrea, Florencia y Diego en mente:
 
 ### Requisitos
 
+- No se requieren conocimientos técnicos avanzados. Sin embargo, esperamos que tengas alguna familiaridad básica con un lenguaje de programación (por ejemplo, R o Python).
+
 - Para poder participar de forma activa y obtener el mayor provecho posible, **trae tu computadora personal al asistir al taller**.  
 
-- El uso de Wi-Fi está prohibido en el establecimiento. **Tu laptop debe contar con conexión por ethernet para acceder a internet en las salas de reuniones. Se recomienda enfáticamente traer un adaptador de ethernet**, ya que solo habrá un número limitado de adaptadores disponibles.
+- El uso de Wi-Fi está prohibido en el establecimiento. **Tu laptop debe contar con conexión por ethernet para acceder a internet en las salas de reuniones. Se tu laptop no tiene puerto de ethernet recomienda enfáticamente traer un adaptador de ethernet**, ya que solo habrá un número limitado de adaptadores disponibles.
 
 
 
@@ -70,11 +73,7 @@ Entre otras cosas, quedan fuera del alcance del taller:
 - Cómo crear cursos desde cero (aunque cubrimos los principios fundamentales para hacerlo).
 
 
-### Duración
-
-El taller tiene una duración total de 16 horas, incluyendo los intervalos, distribuidas en 2 días de 8 horas o  4 días de 4 horas cada uno.
-A continuación tienes un ejemplo de cronograma:
-
+### Cronograma
 
 
 #### Día 1 (14 de enero, 2026)
@@ -123,7 +122,7 @@ A continuación tienes un ejemplo de cronograma:
 
 Para completar la capacitación y acceder a la certificación de **MetaDocencia**, deberás:
 
-- Haberse registrado previamente vía este link: https://forms.zohopublic.com/coldspringharborlaboratory/form/Metadocencia/formperma/h5QgJLhCyX4hzou5KEC-4OfxIB7xKqmtaW0BcnUGJls
+- Haberte registrado previamente vía este link: [https://zfrmz.com/cgR6u7RPmTu5rCHJ9tbu](https://zfrmz.com/cgR6u7RPmTu5rCHJ9tbu)
 
 - Asistir a los días del curso presencial.
 
@@ -186,6 +185,7 @@ Creemos muy firmemente que las personas aprenden mejor cuando aprenden juntas, p
 </div>
 
 
+### [Registro al curso](https://zfrmz.com/cgR6u7RPmTu5rCHJ9tbu)
 
 
 
