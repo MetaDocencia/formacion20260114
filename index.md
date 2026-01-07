@@ -59,7 +59,7 @@ Cuando diseñamos este taller, teníamos a Andrea, Florencia y Diego en mente:
 
 - Para poder participar de forma activa y obtener el mayor provecho posible, **trae tu computadora personal al asistir al taller**.  
 
-- El uso de Wi-Fi está prohibido en el establecimiento. **Tu laptop debe contar con conexión por ethernet para acceder a internet en las salas de reuniones. Se tu laptop no tiene puerto de ethernet recomienda enfáticamente traer un adaptador de ethernet**, ya que solo habrá un número limitado de adaptadores disponibles.
+- El uso de Wi-Fi está prohibido en el establecimiento. **Tu laptop debe contar con conexión por ethernet para acceder a internet en las salas de reuniones. Si tu laptop no tiene puerto de ethernet, recomendamos enfáticamente traer un adaptador de ethernet**, ya que solo habrá un número limitado de adaptadores disponibles.
 
 
 
@@ -167,8 +167,6 @@ Si les gustaría conocer más sobre nosotros, pueden ingresar a [nuestra web](ht
 - **[María Cristina Nanton](https://metadocencia.org/author/maria-cristina-nanton/)** Coordinadora del equipo de ciencia de datos en el Ministerio de Salud de la Ciudad de Buenos Aires, desarrolladora de Inteligencia Artificial en The Global Health Network y colaboradora en MetaDocencia. Comunicadora Social y maestranda en Minería de Datos por la UBA, combina su experiencia profesional con la docencia en programación y estadística. Es coorganizadora del capítulo de Buenos Aires de R-Ladies e integrante del equipo global. Además, es instructora certificada de The Carpentries.
 
 
-
-
 ### Pautas de convivencia
 
 Este curso se desarrollará considerando estas [pautas de convivencia](https://doi.org/10.5281/zenodo.12534195). Nos ayudan a fomentar un ambiente abierto, seguro y amigable y garantizar la participación de todas las personas en nuestras actividades y espacios virtuales.
@@ -188,6 +186,9 @@ Creemos muy firmemente que las personas aprenden mejor cuando aprenden juntas, p
 ### [Registro al curso](https://zfrmz.com/cgR6u7RPmTu5rCHJ9tbu)
 
 
+### Agradecimientos
+
+Esta formación se nutre y está relacionada con iniciativas abiertas similares como el [Entrenamiento de Instructores de The Carpentries](https://carpentries.github.io/instructor-training/index.html) y los cursos Train the Trainer de [ELIXIR-GOBLET](https://elixir-europe.org/platforms/training/train-the-trainer) y de [EMBL-EBI](https://www.ebi.ac.uk/training/trainer-support/expand-your-training-skills). Además, muchos de sus conceptos provienen del libro [Enseñar tecnología en comunidad](https://teachtogether.tech/es/) de [Greg Wilson](http://third-bit.com/). 
 
 ## 📬 Contacto
 
