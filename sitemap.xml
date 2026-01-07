@@ -10,6 +10,9 @@
     <loc>https://JFormoso.github.io/formacion/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://JFormoso.github.io/formacion/aio.html</loc>
+  </url>
+  <url>
     <loc>https://JFormoso.github.io/formacion/aprendizaje.html</loc>
   </url>
   <url>
@@ -31,6 +34,9 @@
     <loc>https://JFormoso.github.io/formacion/final.html</loc>
   </url>
   <url>
+    <loc>https://JFormoso.github.io/formacion/images.html</loc>
+  </url>
+  <url>
     <loc>https://JFormoso.github.io/formacion/index.html</loc>
   </url>
   <url>
@@ -41,6 +47,9 @@
   </url>
   <url>
     <loc>https://JFormoso.github.io/formacion/instructor/LICENSE.html</loc>
+  </url>
+  <url>
+    <loc>https://JFormoso.github.io/formacion/instructor/aio.html</loc>
   </url>
   <url>
     <loc>https://JFormoso.github.io/formacion/instructor/aprendizaje.html</loc>
@@ -64,10 +73,19 @@
     <loc>https://JFormoso.github.io/formacion/instructor/final.html</loc>
   </url>
   <url>
+    <loc>https://JFormoso.github.io/formacion/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://JFormoso.github.io/formacion/instructor/index.html</loc>
   </url>
   <url>
+    <loc>https://JFormoso.github.io/formacion/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://JFormoso.github.io/formacion/instructor/introduccion-personas.html</loc>
+  </url>
+  <url>
+    <loc>https://JFormoso.github.io/formacion/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://JFormoso.github.io/formacion/instructor/modelos-mentales.html</loc>
@@ -85,7 +103,13 @@
     <loc>https://JFormoso.github.io/formacion/instructor/reference.html</loc>
   </url>
   <url>
+    <loc>https://JFormoso.github.io/formacion/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://JFormoso.github.io/formacion/introduccion-personas.html</loc>
+  </url>
+  <url>
+    <loc>https://JFormoso.github.io/formacion/key-points.html</loc>
   </url>
   <url>
     <loc>https://JFormoso.github.io/formacion/modelos-mentales.html</loc>
