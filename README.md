@@ -1,5 +1,7 @@
 # Formación para enseñar
 
+[![DOI](https://zenodo.org/badge/1129726243.svg)](https://doi.org/10.5281/zenodo.18790789)
+
 ## Descripción del curso
 
 El curso “Formación para enseñar” está diseñado para personas que enseñan o quieren enseñar programación y ciencias de datos, pero que rara vez han recibido una capacitación práctica sobre cómo se enseña y cómo aprenden las personas estos temas.
